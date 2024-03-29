@@ -1,4 +1,5 @@
-# calling-two-string-at-a-timedef example1():
+# calling-two-string-at-a-time
+def example1():
     for i in range(2):
         print("sss",end=' ')
 def example2():
